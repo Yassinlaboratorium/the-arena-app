@@ -1,4 +1,6 @@
-# THE ARENA app
+# THE ARENA
 
-Demo van de ledenapp voor THE ARENA Athletic Club, Sint-Niklaas.
-Boeken, betalen, shake bar en inchecken, met een weergave voor leden, coaches en beheer.
+Website en ledenapp voor THE ARENA Athletic Club, Sint-Niklaas.
+
+- `/` website
+- `/app/` ledenapp (boeken, betalen, shake bar, inchecken)
